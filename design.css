@@ -1,0 +1,26 @@
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center, space-between;
+
+}
+
+h1 {
+
+	font-family: fantasy;
+	font-size: 30px;
+	color: chocolate;
+	border-bottom: 4px solid peachpuff;
+	border-right: 4px solid peachpuff;
+	width: 400px;
+	text-align: center;
+	box-shadow: 4px 4px 5px black;
+
+}
+
+img {
+	width: 350px;
+	height: 400px;
+	margin: 10px;
+	transition: all 1s;
+}
